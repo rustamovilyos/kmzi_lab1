@@ -1,4 +1,4 @@
-from lab1 import encode, decode
+from lab1_old_v import encode, decode
 
 if __name__ == '__main__':
     while True:
